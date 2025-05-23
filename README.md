@@ -1,26 +1,9 @@
-
-
-# Welcome to the "How to Wiki" Workshop Repository!
-
-Here you'll find all the files and resources created during our workshop at the BFH iGEM-Meetup in Bielefeld.
-
-### Workshop Overview
-
-During the workshop, participants were introduced to the fundamentals of web design, including:
-- Colors
-- Fonts and Typefaces
-- Content Spacing
-
-We also covered the basics of HTML and CSS. These concepts were further illuminated through a live demonstration, allowing participants to follow along and apply what they learned in real-time.
-
-BFH European Meetup Bielefeld 24.05.2024 - 26.05.2024
-BFH European Meetup Frankfurt 23.05.2025 - 25.05.2025
+BFH European Meetup Bielefeld 24.05.2024 - 26.05.2024  
+BFH European Meetup Frankfurt 23.05.2025 - 25.05.2025  
 
 # Welcome to the “How to Wiki” Workshop Repository!
 
 This repository contains all files and resources from the "How to Wiki?" workshops at the BFH European Meetup, designed to introduce MINT students from the iGEM competition to the fundamentals of HTML and CSS.
-
----
 
 ## About the BFH Meetup
 
@@ -29,7 +12,7 @@ What started as a late-night idea in Paris 2023 quickly became reality when the 
 - **2024:** The inaugural event took place in Bielefeld.
 - **2025:** The second meetup took place in Frankfurt.
 
----
+***
 
 ## Repository Structure
 
@@ -65,6 +48,6 @@ BFH-Workshop/
 
 Each years folder contains all the necessary files for that year's workshop, including example HTML pages, CSS stylesheets, and any supporting assets.
 
----
+***
 
 I hope these resources help you get started with web design for your iGEM project wiki!
